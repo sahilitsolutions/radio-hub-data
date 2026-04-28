@@ -1,0 +1,20 @@
+{
+  "version": 1,
+  "last_updated": "2026-04-28",
+  "promos": [
+    {
+      "id": "fm_banner_1",
+      "title": "Listen Live FM Radios",
+      "subtitle": "Across the world",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEiZkfz33WYvVR3OvcADyOXkjp7bhaEq2dTznjGcGkjGr_y4DEohWA4e6fskFfpspPKJjaU8glQYDOozhxV0s3gfVBYggARX8KRk_LyLZoQOcAnhE5kazrrrvnYu-_77Rl0CBLIge9GuojLud2FXuds6rAhojGI6IpWdHTwaSYf0c9kWCJ6l4puE49AYmtyl/s16000/FEATURED%20IMAGE_%201200%20x%20750%20pixels.png",
+      "categorySlug": "fm"
+    },
+    {
+      "id": "station_mirchi_banner",
+      "title": "Play Radio Mirchi",
+      "subtitle": "Tap to listen instantly",
+      "image": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEgBnPLmRiT_76JXa_PoAss0zrCja1DaM7nn_UQXUhBHbt-lK5DKErO699Q_VLoANLyLFS29iUPSAf-nTKvWhaEoQ7blLtCWm7lnAxysVe5L-X-I-OWEhsHz0gADniMO7Xvnv7q1X2bd-JO0-TXmiIUTfgyRlsPVoDXxPfMWJRBj_gjSPu9wEmr4tJ7gZGOl/s16000/FEATURED%20IMAGE2_%201200%20x%20750%20pixels.png",
+      "stationId": "radio_mirchi_102_4"
+    }
+  ]
+}
