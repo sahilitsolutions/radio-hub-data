@@ -1,0 +1,13 @@
+{
+  "version": 1,
+  "last_updated": "2026-04-28",
+  "stations": [
+    {
+      "id": "radio_mirchi_102_4",
+      "name": "Radio Mirchi 102.4",
+      "stream_url": "http://51.255.235.165:5476/stream.mp3",
+      "logo": "https://www.mirchi.ae/static/media/uae-logo.58a8c1e1.jpg",
+      "category": "FM Radios"
+    }
+  ]
+}
