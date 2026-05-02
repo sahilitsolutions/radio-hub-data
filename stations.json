@@ -1,5 +1,5 @@
 {
-  "version": 1,
+  "version": 2,
   "last_updated": "2026-04-28",
   "stations": [
     {
@@ -7,6 +7,13 @@
       "name": "Radio Mirchi 102.4",
       "stream_url": "http://51.255.235.165:5476/stream.mp3",
       "logo": "https://www.mirchi.ae/static/media/uae-logo.58a8c1e1.jpg",
+      "category": "FM Radios"
+    }
+     {
+      "id": "radio_faza",
+      "name": "Radio Faza",
+      "stream_url": "http://209.97.134.54:8000/radiofaza",
+      "logo": "https://blogger.googleusercontent.com/img/b/R29vZ2xl/AVvXsEj9EZwE824fdnHAZZygWSjgiFSKZD9bz4dNk6fpl14Ud8MlOzQWIfl65cOS3ZeQkbCdkunWSwxdMA3u300it5bt-5u9K8S60JqvEaa-t_S_7R3kqMw9QcXWWng3KU4v31RAfmGyN9ruM-l4xjv9ke4RSojNz0_iytp2_kzJutwq9OwcGtEOfNnQJekmKldg/s16000/logog.webp",
       "category": "FM Radios"
     }
   ]
