@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "last_updated": "2026-05-3",
+  "last_updated": "2026-05-03",
   "stations": [
     {
       "id": "radio_mirchi_102_4",
@@ -8,8 +8,8 @@
       "stream_url": "http://51.255.235.165:5476/stream.mp3",
       "logo": "https://www.mirchi.ae/static/media/uae-logo.58a8c1e1.jpg",
       "category": "FM Radios"
-    }
-     {
+    },
+    {
       "id": "radio_faza",
       "name": "Radio Faza",
       "stream_url": "http://209.97.134.54:8000/radiofaza",
