@@ -1,5 +1,5 @@
 {
-  "version": 4,
+  "version": 5,
   "last_updated": "2026-05-03",
   "stations": [
     {
@@ -28,6 +28,13 @@
       "name": "Mirchi Murga",
       "stream_url": "https://a2.asurahosting.com:8160/radio.mp3",
       "logo": "https://static2.mytuner.mobi/media/tvos_radios/059/mirchi-murga.f38c8401.png",
+      "category": "FM Radios"
+    },
+    {
+      "id": "radio_sharda_90_4_fm",
+      "name": "Radio Sharda 90.4 FM",
+      "stream_url": "http://s8.voscast.com:7738/;/;",
+      "logo": "http://e.mytuner-radio.com/embed/radio-sharda-416424",
       "category": "FM Radios"
     }
   ]
