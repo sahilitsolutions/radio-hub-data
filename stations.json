@@ -1,5 +1,5 @@
 {
-  "version": 3,
+  "version": 4,
   "last_updated": "2026-05-03",
   "stations": [
     {
@@ -21,6 +21,13 @@
       "name": "Suno 87.7 FM",
       "stream_url": "https://17653.live.streamtheworld.com/SP_R4994213_SC",
       "logo": "https://static2.mytuner.mobi/media/tvos_radios/494/kbkf-ld-suno-877.50da3abc.png",
+      "category": "FM Radios"
+    },
+     {
+      "id": "mirchi_murga",
+      "name": "Mirchi Murga",
+      "stream_url": "https://a2.asurahosting.com:8160/radio.mp3",
+      "logo": "https://static2.mytuner.mobi/media/tvos_radios/059/mirchi-murga.f38c8401.png",
       "category": "FM Radios"
     }
   ]
