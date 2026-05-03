@@ -1,5 +1,5 @@
 {
-  "version": 9,
+  "version": 10,
   "last_updated": "2026-05-03",
   "stations": [
     {
@@ -49,6 +49,13 @@
       "name": "1.FM Bombay Beats",
       "stream_url": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
       "logo": "https://liveradios.in/wp-content/uploads/1fm-1.jpg",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "hits_of_bollywwood",
+      "name": "Hits Of Bollywood",
+      "stream_url": "https://stream.zeno.fm/a2gyqzwpwfeuv",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/hitsofbollywood.webp",
       "category": "Bollywood Radios"
     }
   ]
