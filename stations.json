@@ -1,5 +1,5 @@
 {
-  "version": 8,
+  "version": 9,
   "last_updated": "2026-05-03",
   "stations": [
     {
@@ -42,6 +42,13 @@
       "name": "Non Stop Hindi",
       "stream_url": "http://s5.voscast.com:8216/stream",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/nonstophindi.webp",
+      "category": "Bollywood Radios"
+    },
+     {
+      "id": "1_fm_bombay_beats",
+      "name": "1.FM Bombay Beats",
+      "stream_url": "https://strmreg.1.fm/bombaybeats_mobile_mp3",
+      "logo": "https://liveradios.in/wp-content/uploads/1fm-1.jpg",
       "category": "Bollywood Radios"
     }
   ]
