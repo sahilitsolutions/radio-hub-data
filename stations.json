@@ -1,5 +1,5 @@
 {
-  "version": 11,
+  "version": 12,
   "last_updated": "2026-05-03",
   "stations": [
     {
@@ -63,6 +63,13 @@
       "name": "Hungama Hot Now Bollywood",
       "stream_url": "https://2.mystreaming.net/uber/bollywoodnow/icecast.audio",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/hot-now-bollywood.webp",
+      "category": "Bollywood Radios"
+    },
+     {
+      "id": "radio_bolly_fm",
+      "name": "Radio Bolly FM",
+      "stream_url": "https://stream.zeno.fm/zu59ykebs2zuv.mp3",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/radiobollyfm.png",
       "category": "Bollywood Radios"
     }
   ]
