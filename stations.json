@@ -1,5 +1,5 @@
 {
-  "version": 10,
+  "version": 11,
   "last_updated": "2026-05-03",
   "stations": [
     {
@@ -56,6 +56,13 @@
       "name": "Hits Of Bollywood",
       "stream_url": "https://stream.zeno.fm/a2gyqzwpwfeuv",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/hitsofbollywood.webp",
+      "category": "Bollywood Radios"
+    },
+    {
+      "id": "hungama_hot_now_bollywood",
+      "name": "Hungama Hot Now Bollywood",
+      "stream_url": "https://2.mystreaming.net/uber/bollywoodnow/icecast.audio",
+      "logo": "https://onlineradiofm.in/assets/image/radio/180/hot-now-bollywood.webp",
       "category": "Bollywood Radios"
     }
   ]
