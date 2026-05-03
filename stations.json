@@ -1,5 +1,5 @@
 {
-  "version": 7,
+  "version": 8,
   "last_updated": "2026-05-03",
   "stations": [
     {
@@ -40,7 +40,7 @@
     {
       "id": "non_stop_hindi",
       "name": "Non Stop Hindi",
-      "stream_url": "https://vobook.ru/http://s5.voscast.com:8216/stream",
+      "stream_url": "http://s5.voscast.com:8216/stream",
       "logo": "https://onlineradiofm.in/assets/image/radio/180/nonstophindi.webp",
       "category": "Bollywood Radios"
     }
